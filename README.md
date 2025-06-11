@@ -3,25 +3,25 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@LuckkystopBex)
 
 # 🌸 Hi, I’m Luckkystop 🌸
-Tôi đến từ Việt Nam, một đất nước thanh bình và xinh đẹp. Ước mơ của tôi là làm việc trong lĩnh vực An ninh mạng. Tôi có hiểu biết tốt về Proxy và mạng máy tính.
+I come from Vietnam, a peaceful and beautiful country. My dream is to work in Cybersecurity. I have a good understanding of Proxy and computer networks.
 
-**Liên hệ:** [Telegram](https://t.me/thuanjavat)
+**📩 Contact:** [Telegram](https://t.me/thuanjavat)
 
-**Lưu ý:** Nếu bạn đang tìm kiếm công cụ trên profile của tôi, hãy kiên nhẫn vì tôi đang cập nhật dần dần nhé!
+**💡 Note:** If you're looking for a tool on my profile, please be patient as I'm updating it gradually!
 
-**Chúc bạn:** Một ngày an lành và hạnh phúc!
+**🌿 Wishing you:** A peaceful and happy day!
 
-## 🌟 **Nếu bạn nỗ lực, thành công chắc chắn sẽ đến với bạn một ngày không xa!** 🌟
+## 🌟 **If you put in the effort, success will surely come to you one day soon!** 🌟
 
 # 💻 Tech Stack
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=000000&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-%233676A0.svg?logo=python&logoColor=ffdd54&style=for-the-badge)
+![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?logo=ruby&logoColor=white&style=for-the-badge)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23C51A4A.svg?logo=Raspberry-Pi&logoColor=white&style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white&style=for-the-badge)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?logo=microsoftsqlserver&logoColor=white&style=for-the-badge)
+![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-%234053D6.svg?logo=amazondynamodb&logoColor=white&style=for-the-badge)
+![Realm](https://img.shields.io/badge/Realm-%2339477F.svg?logo=realm&logoColor=white&style=for-the-badge)
