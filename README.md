@@ -2,16 +2,16 @@
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@luckkystop)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@LuckkystopBex)
 
-# 🌸 Hi, I’m Luckkystop 🌸
-I come from Vietnam, a peaceful and beautiful country. My dream is to work in Cybersecurity. I have a good understanding of Proxy and computer networks.
+# 🌸 Welcome to Luckkystop's Profile 🌸
+I'm from Vietnam, a peaceful and beautiful country. My passion lies in Cybersecurity, with a solid understanding of Proxy and computer networks.
 
-**📩 Contact:** [Telegram](https://t.me/thuanjavat)
+**📬 Contact:** [Telegram](https://t.me/thuanjavat)
 
-**💡 Note:** If you're looking for a tool on my profile, please be patient as I'm updating it gradually!
+**ℹ️ Note:** Tools on my profile are being updated gradually—please be patient!
 
-**🌿 Wishing you:** A peaceful and happy day!
+**🌟 Wish:** Have a peaceful and happy day!
 
-## 🌟 **If you put in the effort, success will surely come to you one day soon!** 🌟
+## 🎯 **Effort leads to success, coming your way soon!** 🎯
 
 # 💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=000000&style=for-the-badge)
@@ -25,3 +25,18 @@ I come from Vietnam, a peaceful and beautiful country. My dream is to work in Cy
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?logo=microsoftsqlserver&logoColor=white&style=for-the-badge)
 ![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-%234053D6.svg?logo=amazondynamodb&logoColor=white&style=for-the-badge)
 ![Realm](https://img.shields.io/badge/Realm-%2339477F.svg?logo=realm&logoColor=white&style=for-the-badge)
+
+# 📊 Contribution Activity
+**52 contributions in the last year**  
+*No contributions on October 7th.*
+
+| Mon | Tue | Wed | Thu | Fri | Sat | Sun |
+|-----|-----|-----|-----|-----|-----|-----|
+|     |     | 🌱  |     | 🌿  |     |     |
+|     |     |     | 🌳  |     |     |     |
+|     | 🌲  |     |     |     |     |     |
+
+*Less 🌱 | More 🌳*  
+*Learn how we count contributions*
+
+*Last updated: June 2025*
