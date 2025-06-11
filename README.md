@@ -2,16 +2,16 @@
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@luckkystop)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@LuckkystopBex)
 
-# Hi, I’m Luckkystop
-I’m from Vietnam, a peaceful and beautiful country. My dream is to work in Cybersecurity. I have a good understanding of Proxy and computer networks.
+# 🌸 Hi, I’m Luckkystop 🌸
+Tôi đến từ Việt Nam, một đất nước thanh bình và xinh đẹp. Ước mơ của tôi là làm việc trong lĩnh vực An ninh mạng. Tôi có hiểu biết tốt về Proxy và mạng máy tính.
 
-**Contact:** [Telegram](https://t.me/thuanjavat)
+**Liên hệ:** [Telegram](https://t.me/thuanjavat)
 
-**Note:** If you’re looking for a tool on my profile, please be patient as I’m updating it gradually!
+**Lưu ý:** Nếu bạn đang tìm kiếm công cụ trên profile của tôi, hãy kiên nhẫn vì tôi đang cập nhật dần dần nhé!
 
-**Wishing you:** A peaceful and happy day!
+**Chúc bạn:** Một ngày an lành và hạnh phúc!
 
-## 🌟 **If you put in the effort, success will surely come to you one day soon!** 🌟
+## 🌟 **Nếu bạn nỗ lực, thành công chắc chắn sẽ đến với bạn một ngày không xa!** 🌟
 
 # 💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
